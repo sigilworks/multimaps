@@ -1,0 +1,25 @@
+{
+	"name": "multimaps",
+	"version": "1.0.0",
+	"description": "ES6+ multimap types based on Google Guava",
+	"main": "lib/index.js",
+	"scripts": {
+      "test": "node_modules/.bin/mocha --reporter spec",
+      "cover": "node_modules/istanbul/lib/cli.js cover node_modules/mocha/bin/_mocha -- -R spec test/*"
+	},
+	"author": "Timothy J. Palmer",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/sigilworks/multimaps.git"
+	},
+	"dependencies": {},
+	"devDependencies": {
+		"chai": "4.1.2",
+		"mocha": "4.0.1",
+		"istanbul": "^0.4.5"
+	},
+	"engines": {
+		"node": ">=6.5.0"
+	}
+}
