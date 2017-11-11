@@ -1,6 +1,6 @@
 {
 	"name": "multimaps",
-	"version": "1.0.0",
+	"version": "0.1.0",
 	"description": "ES6+ multimap types based on Google Guava",
 	"main": "lib/index.js",
 	"scripts": {

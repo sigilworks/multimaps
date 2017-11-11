@@ -1,4 +1,4 @@
-Multimaps
+Multimaps [![Build Status](https://travis-ci.org/sigilworks/multimaps.svg?branch=master)](https://travis-ci.org/sigilworks/multimaps)
 =========
 
 A small library that extends the JavaScript `Map` built-in class, to give it similar capabilities as Google Guava's `ArrayListMultimap` and `SetMultimap`.
